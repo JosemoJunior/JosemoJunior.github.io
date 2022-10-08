@@ -9,7 +9,7 @@ link para o vercel:
 https://projetowebunidade1.vercel.app/
 
 Grupo:
-Felipe Quaresma
-Helton Vinícius
-Josemo Júnior
-Lucas Lourenço
+Felipe Quaresma,
+Helton Vinícius,
+Josemo Júnior,
+Lucas Lourenço.
